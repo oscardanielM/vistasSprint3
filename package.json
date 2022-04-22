@@ -1,0 +1,22 @@
+{
+  "name": "twitter_jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscardanielM/twitter_jest.git"
+  },
+  "author": "oscarDanielMtz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscardanielM/twitter_jest/issues"
+  },
+  "homepage": "https://github.com/oscardanielM/twitter_jest#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
